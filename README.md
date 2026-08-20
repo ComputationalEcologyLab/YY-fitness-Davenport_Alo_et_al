@@ -6,6 +6,8 @@ Also make sure to have Python 3.8+ along with the NumPy and SciPy packages insta
 
 ## Running the Simulations 
 
+These instructions are for use in a command-line terminal — **Terminal** on macOS/Linux, or **Command Prompt / PowerShell** on Windows.
+
 1.  Clone the repository and move into it:
 
 ``` bash
