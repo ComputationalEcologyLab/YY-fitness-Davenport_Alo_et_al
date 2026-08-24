@@ -11,7 +11,7 @@ These instructions are for use in a command-line terminal — **Terminal** on ma
 1.  Clone the repository and move into it:
 
 ``` bash
-   git clone https://github.com/username/YY-fitness-Davenport_Alo_et_al.git
+   git clone https://github.com/ComputationalEcologyLab/YY-fitness-Davenport_Alo_et_al.git
    cd YY-fitness-Davenport_Alo_et_al
 ```
 
