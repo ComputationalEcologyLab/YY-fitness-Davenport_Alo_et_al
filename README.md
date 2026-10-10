@@ -1,4 +1,4 @@
-Data and code for "Non-native fish species response when eradication is not achieved: fitness regulates recovery in an individual-based model of YY- male brook trout"
+Data and code for "Fitness regulates non-native species recovery in a simulated trojan Myy brook trout application". Article DOI: 10.1111/EVA.70335
 
 These data will allow to reproduce results obtained in the paper. There are 2 directories. One contains the data and the second one is the SRC directory which contains the appropriate CDMetaPOP version to run the simulations. Make sure to use this version otherwise the input files will not work.
 
